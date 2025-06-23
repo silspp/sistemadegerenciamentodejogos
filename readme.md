@@ -2,6 +2,6 @@
 
 > status do projeto
 ```
-npm install react
+node app.js
 
 ```
